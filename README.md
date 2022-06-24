@@ -1,6 +1,7 @@
 # Higher-Order Components In React - Common Use Cases
 
-#### Demo site is here: [User Auth Flow](https://user-auth-flow.web.app/)
+<!--
+#### Demo site is here: [User Auth Flow](https://user-auth-flow.web.app/) -->
 
 ## Table of Contents
 
