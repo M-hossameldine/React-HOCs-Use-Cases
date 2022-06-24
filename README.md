@@ -7,8 +7,7 @@
 - [About](#about)
 - [Build Setup](#build_setup)
 - [Built Using](#built_using)
-- [TODO](#todo)
-- [Acknowledgements](#achknowledgement)
+- [Acknowledgements](#Acknowledgement)
 
 ## About <a name= "about"></a>
 
@@ -42,6 +41,6 @@ This demo project includes common use cases for React HOCs:
 - [ReactJs](https://reactjs.org/) - Web FrameWork
 - [React Router Dom v.6](https://www.npmjs.com/package/react-router-dom/v/6.0.0) DOM binding for [React Router](https://reactrouter.com/)
 
-## Acknowledgements <a name="acknowledgement"></a>
+## Acknowledgements <a name="Acknowledgement"></a>
 
 All These HOC examples where mentioned in the article [Higher-Order Components In React](https://www.smashingmagazine.com/2020/06/higher-order-components-react/) by **Shedrack Akintayo**.
