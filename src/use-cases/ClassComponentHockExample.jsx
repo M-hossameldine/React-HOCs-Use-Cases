@@ -1,8 +1,8 @@
-import React from 'react';
-
 /* 
   we will build a HOC that takes a componet that has a name prop, and then we will make use of the name prop in our HOC
 */
+import React from 'react';
+
 const HelloComponet = ({ name }) => {
   return <h1> Hello {name}! </h1>;
 };
